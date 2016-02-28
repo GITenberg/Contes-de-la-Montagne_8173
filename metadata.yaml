@@ -1,0 +1,25 @@
+_repo: Contes-de-la-Montagne_8173
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8173'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+tableOfContents: Une nuit dans les bois -- Le tisserand de la Steinbach -- Le violon
+  du pendu -- L'héritage de mon oncle Christian -- Hugues-le-loup -- Pourquoi Hunebourg
+  ne fut pas rendu -- Le bouc d'Israël -- Le combat d'ours.
+title: Contes de la Montagne
+url: http://www.gutenberg.org/ebooks/8173
