@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French fiction'
 - !lcc 'PQ'
+- GITenberg
 tableOfContents: Une nuit dans les bois -- Le tisserand de la Steinbach -- Le violon
   du pendu -- L'héritage de mon oncle Christian -- Hugues-le-loup -- Pourquoi Hunebourg
   ne fut pas rendu -- Le bouc d'Israël -- Le combat d'ours.
